@@ -1,0 +1,255 @@
+- city: Budapest
+  comment: ''
+  country: Hungary
+  name: Tomb of Gül Baba
+  type: Tomb
+- city: Pécs
+  comment: Converted into a church
+  country: Hungary
+  name: Pasha Qasim Mosque
+  type: Mosque
+- city: Pécs
+  comment: ''
+  country: Hungary
+  name: Yakovalı Hasan Paşa Mosque
+  type: Mosque
+- city: Siklós
+  comment: ''
+  country: Hungary
+  name: Malkocs Bey Mosque
+  type: Mosque
+- city: Eger
+  comment: ''
+  country: Hungary
+  name: Eger Minaret
+  type: Minaret
+- city: Esztergom
+  comment: ''
+  country: Hungary
+  name: Öziçeli Hacci Ibrahim Mosque
+  type: Mosque
+- city: Esztergom
+  comment: ''
+  country: Hungary
+  name: Esztergom Castle
+  type: Graves
+- city: Mohács
+  comment: ''
+  country: Hungary
+  name: Mohács Memorial Park
+  type: Memorial Complex
+- city: Ganz Street, Budapest
+  comment: ''
+  country: Hungary
+  name: Király Baths
+  type: Bathhouse
+- city: Near Szigetvár
+  comment: ''
+  country: Hungary
+  name: Turbék
+  type: Excavations
+- city: Szigetvár, Zrínyi Castle
+  comment: ''
+  country: Hungary
+  name: Mosque of Sultan Suleiman
+  type: Former Mosque
+- city: Fil'akovo
+  comment: Said to be occupied by Ottoman troops
+  country: Slovakia
+  name: Fil'akovo Fortress
+  type: Fortress
+- city: Belgrade
+  comment: ''
+  country: Serbia
+  name: Bajrakli Mosque
+  type: Mosque
+- city: Novi Pazar
+  comment: ''
+  country: Serbia
+  name: Altun-Alem Mosque
+  type: Mosque
+- city: Belgrade
+  comment: ''
+  country: Serbia
+  name: Mehmed Paša Sokolović's Fountain
+  type: Fountain
+- city: Niš
+  comment: Built on top of older Ottoman mosque from 1720
+  country: Serbia
+  name: Islam-agina Džamija
+  type: Mosque
+- city: Kremna
+  comment: ''
+  country: Serbia
+  name: Stari Han
+  type: Caravansarai
+- city: Niš
+  comment: ''
+  country: Serbia
+  name: Niš Fortress
+  type: Fortress
+- city: Belgrade
+  comment: ''
+  country: Serbia
+  name: Belgrade Fortress
+  type: Fortress
+- city: Golubac
+  comment: ''
+  country: Serbia
+  name: Golubac Fortress
+  type: Fortress
+- city: Ram
+  comment: ''
+  country: Serbia
+  name: Ram Fortress
+  type: Fortress
+- city: Kladovo
+  comment: ''
+  country: Serbia
+  name: Fetislam Fortress
+  type: Fortress
+- city: Šabac
+  comment: ''
+  country: Serbia
+  name: Šabac Fortress
+  type: Fortress
+- city: Užice
+  comment: ''
+  country: Serbia
+  name: Užice Fortress
+  type: Fortress
+- city: Sjenica
+  comment: ''
+  country: Serbia
+  name: Sultan-Valide Mosque
+  type: Mosque
+- city: Belgrade
+  comment: ''
+  country: Serbia
+  name: Sheikh Mustafa's Turbe
+  type: Tomb
+- city: Belgrade
+  comment: ''
+  country: Serbia
+  name: Damad Ali Pasha Turbe
+  type: Tomb
+- city: Vranje
+  comment: ''
+  country: Serbia
+  name: Old Bridge
+  type: Bridge
+- city: Niš
+  comment: ''
+  country: Serbia
+  name: Skull Tower
+  type: Tower
+- city: Novi Sad
+  comment: ''
+  country: Serbia
+  name: Two fountains in Ledinci
+  type: Fountains
+- city: Novi Pazar
+  comment: ''
+  country: Serbia
+  name: Gazilar Graveyard with turbe
+  type: Graveyard and Tomb
+- city: Staničenje
+  comment: ''
+  country: Serbia
+  name: Begov Bridge
+  type: Bridge
+- city: Bač
+  comment: ''
+  country: Serbia
+  name: Bač hammam
+  type: Bathhouse
+- city: Niš
+  comment: Next to jazz museum
+  country: Serbia
+  name: Hammam in Niš Fortress
+  type: Bathhouse
+- city: Novi Pazar
+  comment: ''
+  country: Serbia
+  name: Old Hammam
+  type: Bathhouse
+- city: Sokobanja
+  comment: ''
+  country: Serbia
+  name: Hammam in Sokobanja
+  type: Bathhouse
+- city: Novi Pazar
+  comment: ''
+  country: Serbia
+  name: Leylek Camii
+  type: Mosque
+- city: Niš
+  comment: ''
+  country: Serbia
+  name: Bali-Beg Mosque
+  type: Mosque
+- city: Vranje
+  comment: ''
+  country: Serbia
+  name: Vranje Museum
+  type: Former Pasha's Residence
+- city: Bač
+  comment: ''
+  country: Serbia
+  name: Bač Fortress
+  type: Fortress
+- city: Prijepolje
+  comment: ''
+  country: Serbia
+  name: Mahmut-Beg Mosque
+  type: Mosque
+- city: Prijepolje
+  comment: ''
+  country: Serbia
+  name: Mileševac Fortress
+  type: Fortress
+- city: Vranje
+  comment: ''
+  country: Serbia
+  name: Hammam Vranje
+  type: Bathhouse
+- city: Novi Pazar
+  comment: ''
+  country: Serbia
+  name: Amir Aga's Inn
+  type: Inn/Caravansarai
+- city: Kosjerić
+  comment: ''
+  country: Serbia
+  name: Stari Han
+  type: Caravansarai
+- city: Nova Varoš
+  comment: ''
+  country: Serbia
+  name: Skender-Paša Mosque
+  type: Mosque
+- city: Novi Pazar
+  comment: ''
+  country: Serbia
+  name: Hasan Çelebi (Arab) Mosque
+  type: Mosque
+- city: Pešter Plateau
+  comment: ''
+  country: Serbia
+  name: Džamija Ugao
+  type: Mosque
+- city: Priboj
+  comment: ''
+  country: Serbia
+  name: Hasan-Aga's Mosque
+  type: Mosque
+- city: Novi Pazar
+  comment: ''
+  country: Serbia
+  name: Iskender-Kelebi Mosque
+  type: Mosque
+- city: Niš
+  comment: Only minaret remains
+  country: Serbia
+  name: Hasan-begova Džamija
+  type: Mosque
